@@ -32,3 +32,14 @@ Feel free to explore my pinned repositories below, where I showcase assignments,
 Let’s code our way to excellence!
 
 ---
+---
+
+## 📊 GitHub Stats & Activity
+
+![Domina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domina83&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domina83&layout=compact&theme=tokyonight)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Domina83&theme=tokyo-night)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Domina83&theme=algolia)
